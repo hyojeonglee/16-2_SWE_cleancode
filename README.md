@@ -1,1 +1,1 @@
-# SWE
+# Software engineering lab: Clean code
